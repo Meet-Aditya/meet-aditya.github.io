@@ -1,0 +1,12 @@
+body {
+  background-color: #0f172a;
+  color: white;
+}
+.page-header {
+  background-color: #1e293b !important;
+  background-image: none !important;
+}
+.btn {
+  background-color: #38bdf8;
+  border: none;
+}
